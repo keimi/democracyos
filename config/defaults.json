@@ -1,5 +1,5 @@
 {
-  "locale": "en",
+  "locale": "es",
   "protocol": "http",
   "host": "localhost",
   "publicPort": 3000,
@@ -35,12 +35,12 @@
     "url": "",
     "token": "",
     "mailer": {
-      "name": "The DemocracyOS Team",
-      "email": "no-reply@democracyos.org",
+      "name": "Revolucion Democratica",
+      "email": "camrojas@ug.uchile.cl",
       "service": "",
       "auth": {
-        "user": "",
-        "pass": ""
+        "user": "keimi",
+        "pass": "asd1234"
       }
     }
   },
