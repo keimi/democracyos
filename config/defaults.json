@@ -34,7 +34,7 @@
   "notifications": {
     "url": "",
     "token": "",
-    "mailer": {
+    "mailer": {s
       "name": "Revolucion Democratica",
       "email": "camrojas@ug.uchile.cl",
       "service": "",
